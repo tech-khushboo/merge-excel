@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 1.0,
+        "Name": "John",
+        "Age": 24.0,
+        "Email": "John@gmail.com",
+        "Phone": 9876543210.0
+    },
+    {
+        "Id": 2.0,
+        "Name": "Tina",
+        "Age": 21.0,
+        "Email": "tina@gmail.com",
+        "Phone": 9876543210.0
+    },
+    {
+        "Id": 3.0,
+        "Name": "Lisa",
+        "Age": 34.0,
+        "Email": "lisa@gmail.com",
+        "Phone": 9876543210.0
+    },
+    {
+        "Id": 4.0,
+        "Name": "Peter",
+        "Age": 25.0,
+        "Email": "peter@gmail.com",
+        "Phone": 9876543210.0
+    }
+]
